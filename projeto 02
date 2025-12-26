@@ -1,0 +1,26 @@
+# Projeto 02 – Relatório de Clientes com Filtro (ABAP)
+
+## Objetivo
+Criar um relatório ABAP com tela de seleção para filtrar clientes por país.
+
+## Tecnologias Utilizadas
+- ABAP
+- Open SQL
+- Selection Screen
+- Internal Tables
+
+## Funcionalidades
+- Campo de filtro por país
+- Leitura dinâmica da tabela KNA1
+- Exibição em lista clássica
+
+## Conceitos Praticados
+- PARAMETERS
+- SELECT com WHERE
+- START-OF-SELECTION
+
+## Evidências
+Prints da tela de seleção, código e resultado.
+
+## Observações
+Projeto desenvolvido para evolução do aprendizado em ABAP, focando em filtros dinâmicos.
